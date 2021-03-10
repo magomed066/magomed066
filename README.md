@@ -9,6 +9,7 @@
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
 ![READUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
 ![FIREBASE](https://img.shields.io/badge/-FIREBASE-090909?style=for-the-badge&logo=firebase)
+![MONGODB](https://img.shields.io/badge/-MONGODB-090909?style=for-the-badge&logo=mongodb)
 
 
 <!--
