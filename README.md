@@ -4,6 +4,10 @@
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![NODEJS](https://img.shields.io/badge/-NODEJS-090909?style=for-the-badge&logo=nodejs)
+![REACT](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
+![READUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
 
 <!--
 **magomed066/magomed066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
