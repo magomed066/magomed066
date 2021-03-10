@@ -11,7 +11,7 @@
 ![FIREBASE](https://img.shields.io/badge/-FIREBASE-090909?style=for-the-badge&logo=firebase)
 ![MONGODB](https://img.shields.io/badge/-MONGODB-090909?style=for-the-badge&logo=mongodb)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=mysql)
-![API](https://img.shields.io/badge/-REST&#032API-090909?style=for-the-badge&logo=rest)
+![API](https://img.shields.io/badge/-REST&#032API-090909?style=for-the-badge)
 
 
 
