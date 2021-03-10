@@ -1,4 +1,4 @@
-# Hi there 👋, I am Magomed!
+# Hi there 👋, I am Magomed Mamergov!
 ## I am a junior *Frontend developer*, but also I am a little *Backend Developer*
 
 ### Languages and Technologies
