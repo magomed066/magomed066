@@ -1,11 +1,11 @@
 # Hi there 👋, I am Magomed!
-## I am junior *Fullstack developer* from Russia
+## I am a junior *Frontend developer*, but also I am a little *Backend Developer*
 
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-![NODE](https://img.shields.io/badge/-NODE-090909?style=for-the-badge&logo=node)
+![EXPRESS](https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=express)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
 ![READUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
 
