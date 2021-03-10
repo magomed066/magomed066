@@ -2,7 +2,7 @@
 ## I am junior *Fullstack developer* from Russia
 
 ### Languages and Technologies
-![JavaScript](https://img.shields.io/JavaScipt/label=JavaScipt&logo=JavaScript&logoColor=yellow&style=social&url=JavaScipt)
+![JavaScript](https://img.shields.io/twitter/url?label=JavaScipr&logo=JavaScript&logoColor=yellow&style=social)
 
 <!--
 **magomed066/magomed066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
