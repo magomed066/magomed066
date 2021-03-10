@@ -15,6 +15,8 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node.js)
 ![HEROKU](https://img.shields.io/badge/-HEROKU-090909?style=for-the-badge&logo=heroku)
 ![NETLIFY](https://img.shields.io/badge/-NETLIFY-090909?style=for-the-badge&logo=netlify)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
+
 <!--
 **magomed066/magomed066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
