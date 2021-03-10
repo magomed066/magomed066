@@ -12,7 +12,7 @@
 ![MONGODB](https://img.shields.io/badge/-MONGODB-090909?style=for-the-badge&logo=mongodb)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=mysql)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=nodejs)
+![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node.js)
 
 
 <!--
