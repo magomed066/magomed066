@@ -13,7 +13,7 @@
 ![MYSQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=mysql)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-090909?style=for-the-badge&logo=node.js)
-
+![HEROKU](https://img.shields.io/badge/-HEROKU-090909?style=for-the-badge&logo=heroku)
 
 <!--
 **magomed066/magomed066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
