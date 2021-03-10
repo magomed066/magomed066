@@ -10,6 +10,7 @@
 ![READUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
 ![FIREBASE](https://img.shields.io/badge/-FIREBASE-090909?style=for-the-badge&logo=firebase)
 ![MONGODB](https://img.shields.io/badge/-MONGODB-090909?style=for-the-badge&logo=mongodb)
+![MYSQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=mysql)
 
 
 <!--
