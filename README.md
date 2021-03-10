@@ -8,6 +8,8 @@
 ![EXPRESS](https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=express)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
 ![READUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
+![FIREBASE](https://img.shields.io/badge/-FIREBASE-090909?style=for-the-badge&logo=firebase)
+
 
 <!--
 **magomed066/magomed066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
