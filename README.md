@@ -1,5 +1,5 @@
 # Hi there 👋, I am Magomed Mamergov!
-## I am a junior *Frontend developer*, but also I am a little *Backend Developer*
+## I am a *Frontend developer*, but also I am a little *Backend Developer*
 
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
