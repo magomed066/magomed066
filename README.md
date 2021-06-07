@@ -17,7 +17,7 @@
 ![NETLIFY](https://img.shields.io/badge/-NETLIFY-090909?style=for-the-badge&logo=netlify)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magomed066&repo=github-readme-stats)](https://github.com/mamergov066/github-readme-stats)
 
 
 ### 💬 Mail me: mamergov01@inbox.ru
