@@ -16,7 +16,7 @@
 ![HEROKU](https://img.shields.io/badge/-HEROKU-090909?style=for-the-badge&logo=heroku)
 ![NETLIFY](https://img.shields.io/badge/-NETLIFY-090909?style=for-the-badge&logo=netlify)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+
 
 
 ### 💬 Mail me: mamergov01@inbox.ru
