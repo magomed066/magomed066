@@ -17,7 +17,13 @@
 ![NETLIFY](https://img.shields.io/badge/-NETLIFY-090909?style=for-the-badge&logo=netlify)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
 
-
+ ### ⚙️ &nbsp;GitHub Analytics
+ 
+<p align="left">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amirovvv&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### 💬 Mail me: mamergov01@inbox.ru
 <!--
