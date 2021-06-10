@@ -1,4 +1,4 @@
-# Hi there 👋, I am Magomed Mamergov!
+# Hi there <h2><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='35' align="left" style="max-width:100%;"/>, I am Magomed Mamergov!
 ## I am a *Frontend developer*!
 
 ### Languages and Technologies
