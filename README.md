@@ -1,5 +1,5 @@
 
-##Hi there, I am Magomed Mamergov!
+## I there, I am Magomed Mamergov!
 ## I am a *Frontend developer*!
 
 ### Languages and Technologies
