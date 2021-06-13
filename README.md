@@ -3,7 +3,7 @@
 
 ## I am Magomed Mamergov! And I am a *Frontend developer*!
 
-### Languages and Technologies
+### 🛠  Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
