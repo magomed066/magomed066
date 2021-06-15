@@ -19,7 +19,7 @@
 ![HEROKU](https://img.shields.io/badge/-HEROKU-090909?style=for-the-badge&logo=heroku)
 ![NETLIFY](https://img.shields.io/badge/-NETLIFY-090909?style=for-the-badge&logo=netlify)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
-![MATERIAL-UI](https://img.shields.io/badge/-Material-UI-090909?style=for-the-badge&logo=MaterialL-UI)
+![MATERIAL-UI](https://img.shields.io/badge/-Material-UI-090909?style=for-the-badge&logo=Material-UI)
 
  ### ⚙️ &nbsp;GitHub Analytics
  
