@@ -2,7 +2,6 @@
 <h2><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='35' align="left" style="max-width:100%;"/>Hi everyone!</h2>
 
 ## I am Magomed Mamergov, and I am a *Frontend developer*!
-
 ### 🛠  Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
