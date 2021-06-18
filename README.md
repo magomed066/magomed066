@@ -3,8 +3,6 @@
 
 ## I am Magomed Mamergov, and I am a *Frontend developer*!
 
-DB_URL=mongodb+srv://magomed:XOKJcuITptvYaOFi@cluster0.xflmb.mongodb.net/online-service
-JWT_SECRET=8b82a07580e9fb0a3fc703ffb8f438adb459a91619632885d3aa2ee22fa80514204a9be2a24a39a7ff394e1939638c43
 
 ### 🛠  Stack
 
