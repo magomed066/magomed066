@@ -3,6 +3,8 @@
 
 ## I am Magomed Mamergov, and I am a *Frontend developer*!
 
+## Education
+### Grozny State Technical Oil University. Faculty of Programming and Power Supply 🎓
 
 ### 🛠  Stack
 
