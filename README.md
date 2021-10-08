@@ -14,7 +14,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![EXPRESS](https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=express)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
-![VUE](https://img.shields.io/badge/-VUE-090909?style=for-the-badge&logo=vuejs)
+![VUEJS](https://img.shields.io/badge/-VUEJS-090909?style=for-the-badge&logo=vuejs)
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
 ![FIREBASE](https://img.shields.io/badge/-FIREBASE-090909?style=for-the-badge&logo=firebase)
 ![MONGODB](https://img.shields.io/badge/-MONGODB-090909?style=for-the-badge&logo=mongodb)
