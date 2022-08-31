@@ -37,7 +37,7 @@
 </a>
 </p>
 
-### 💬 Mail me: mamergov01@inbox.ru
+### 💬 Mail me: mmmaga099@gmail.com
 <!--
 **magomed066/magomed066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
