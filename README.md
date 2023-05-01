@@ -55,6 +55,9 @@ About Me:
 ---
 <b>Frontend engineer</b>
 
+## Education
+<b>Grozny State Oil Technical University. Institute of Information Technologies. Information technology.</b>
+
 Languages and Tools :
 ---
 
