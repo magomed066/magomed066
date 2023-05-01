@@ -60,6 +60,15 @@ Languages and Tools :
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,nuxtjs,vite,tailwind,firebase)
 
+<hr>
+
+<p align="left">
+<a href="https://github.com/magomed066">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=magomed066&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 ### Leetcode
 
 [![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmmmaga099&logo=leetcode&logoColor=yellow)](https://leetcode.com/mmmaga099/)
