@@ -60,6 +60,8 @@ Languages and Tools :
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,nuxtjs,vite,tailwind,firebase)
 
+<hr>
+
 ### Leetcode
 
 [![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmmmaga099&logo=leetcode&logoColor=yellow)](https://leetcode.com/mmmaga099/)
@@ -73,6 +75,13 @@ Languages and Tools :
 </p>
 
 
+Social
+---
+<p align="center">
+<a href="https://t.me/developer_099">	<img alt="Telegram" src="https://img.shields.io/badge/@developer_099-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://www.instagram.com/m.mamergov/"><img alt="Instagram" src="https://img.shields.io/badge/@m.mamergov-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/magomed-mamergov/"><img alt="Linkedin" src="https://img.shields.io/badge/mamergov-blue.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+</p>
 
  
 
