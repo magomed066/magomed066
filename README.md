@@ -58,7 +58,7 @@ About Me:
 Languages and Tools :
 ---
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,nuxtjs,vite,tailwind,firebase)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vite,webpack,mui,antd,firebase)
 
 <hr>
 
@@ -110,4 +110,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
