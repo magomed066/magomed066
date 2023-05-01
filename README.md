@@ -33,7 +33,7 @@
 
 [![LeetCode user cascandaliato](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmmmaga099&logo=leetcode&logoColor=yellow)](https://leetcode.com/mmmaga099/)
 
-- 📫 How to reach me: @developer_099
+
 
 
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
@@ -67,6 +67,8 @@
 </p>
 
 ### 💬 Mail me: mmmaga099@gmail.com
+### -  <img src="https://www.vectorlogo.zone/logos/telegram/telegram.svg" alt="git" width="40" height="40"/> 📫 How to reach me: @developer_099
+
 <!--
 **magomed066/magomed066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
