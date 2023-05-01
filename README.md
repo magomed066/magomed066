@@ -58,7 +58,7 @@ About Me:
 Languages and Tools :
 ---
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,express,mongodb,redux,vite,webpack,mui,firebase,postman)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,express,mongodb,redux,vite,webpack,mui,firebase,postman,vscode)
 
 <hr>
 
